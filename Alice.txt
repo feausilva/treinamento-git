@@ -1,3 +1,4 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém fez uma alteração remotamente!
 Um pouco depois alguém fez outra alteração remota.
 Fazendo uma nova alteração remota
+Fazendo uma alteração remota para gerar um conflito
